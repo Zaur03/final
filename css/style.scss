@@ -1,0 +1,1268 @@
+@media (max-width: 568px) {
+    .click-up {
+        position: absolute;
+        right: 30px;
+        bottom: 20px;
+        z-index: 999;
+        padding: 2px;
+        color: white;
+        background-color: #3BBCA7;
+        border-radius: 50%;
+        vertical-align: middle;
+        cursor: pointer;
+        position: fixed;
+        transition: 2s ease-in-out;
+
+        a {
+            color: white;
+        }
+    }
+}
+
+.click-up {
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
+    z-index: 999;
+    padding: 10px;
+    color: white;
+    background-color: #3BBCA7;
+    border-radius: 50%;
+    vertical-align: middle;
+    cursor: pointer;
+    position: fixed;
+    transition: 2s ease-in-out;
+
+    a {
+        color: white;
+    }
+}
+
+#care {
+    .container {
+        .box {
+            img {
+                width: 107%;
+                height: 50%;
+                position: absolute;
+                left: -96px;
+            }
+
+            h1 {
+                position: absolute;
+                top: 130px;
+                left: 550px;
+                color: #072F60;
+                font-size: 50px;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+
+            a {
+                position: absolute;
+                top: 200px;
+                left: 600px;
+                text-decoration: none;
+                color: black;
+            }
+
+            &:hover {
+                a {
+                    color: #3BCACE;
+                    transition: 0.5s ease-in-out;
+                }
+
+                p {
+                    color: black;
+                    transition: 0.5s ease-in-out;
+                }
+            }
+
+
+            span {
+                position: absolute;
+                top: 200px;
+                left: 650px;
+                font-weight: 100;
+            }
+
+            p {
+                position: absolute;
+                top: 200px;
+                left: 670px;
+                font-weight: 100;
+                color: #3BCACE;
+            }
+        }
+    }
+}
+
+
+@media (max-width: 568px) {
+    #care {
+        .container {
+            .box {
+                img {
+                    position: absolute;
+                    width: 765px;
+                    left: -200px;
+                }
+
+                h1 {
+                    position: absolute;
+                    top: 70px;
+                    left: 200px;
+                    font-size: 35px;
+                    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                }
+
+                a {
+                    position: absolute;
+                    top: 120px;
+                    left: 215px;
+                }
+
+                span {
+                    position: absolute;
+                    top: 120px;
+                    left: 265px;
+                    font-weight: 100;
+                }
+
+                p {
+                    position: absolute;
+                    top: 120px;
+                    left: 285px;
+                }
+            }
+        }
+    }
+}
+
+
+#content {
+    .container {
+        .box {
+            img {
+                position: absolute;
+                top: 550px;
+            }
+        }
+
+        .box1 {
+            img {
+                position: absolute;
+                top: 460px;
+                left: 430px;
+            }
+        }
+
+        .box2 {
+            img {
+                position: relative;
+                top: 780px;
+                left: 312px;
+                border-radius: 5px;
+            }
+        }
+
+        .box3 {
+            h4 {
+                position: absolute;
+                left: 800px;
+                top: 460px;
+                color: #072F60;
+                font-size: 37px;
+                font-weight: 600;
+            }
+
+            p {
+                position: absolute;
+                left: 800px;
+                top: 650px;
+                color: #B3B3B3;
+                font-weight: 500;
+                font-size: 18px;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+        }
+
+        .box4 {
+            i {
+                position: absolute;
+                top: 820px;
+                left: 800px;
+                color: #3BBCA7;
+                font-weight: bolder;
+            }
+
+            p {
+                position: absolute;
+                top: 815px;
+                left: 830px;
+                font-weight: 500;
+                color: #3BBCA7;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+        }
+
+        .box5 {
+            i {
+                position: absolute;
+                top: 860px;
+                left: 800px;
+                font-weight: bolder;
+                color: #3BBCA7;
+            }
+
+            p {
+                position: absolute;
+                top: 855px;
+                left: 830px;
+                font-weight: 500;
+                color: #3BBCA7;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+        }
+
+        .box6 {
+            i {
+                position: absolute;
+                top: 900px;
+                left: 800px;
+                color: #3BBCA7;
+            }
+
+            p {
+                position: absolute;
+                top: 895px;
+                left: 830px;
+                font-weight: 500;
+                color: #3BBCA7;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+        }
+
+        .box7 {
+            a {
+                i {
+                    position: absolute;
+                    top: 950px;
+                    left: 800px;
+                    color: #000;
+                    border: 30px solid #3BBCA7;
+                    border-radius: 50%;
+
+                    &:hover {
+                        border: 30px solid white;
+                        transition: 0.5s;
+                        color: #3BBCA7;
+                    }
+                }
+            }
+
+            p {
+                position: absolute;
+                top: 975px;
+                left: 875px;
+                color: #072F60;
+                font-weight: 500;
+
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+        }
+    }
+}
+
+
+
+
+@media (max-width: 568px) {
+    #content {
+        .container {
+            .box {
+                img {
+                    position: absolute;
+                    top: 360px;
+                    left: 140px;
+                }
+            }
+
+            .box1 {
+                img {
+                    position: absolute;
+                    top: 850px;
+                    left: 140px;
+                }
+            }
+
+            .box2 {
+                img {
+                    position: absolute;
+                    top: 1180px;
+                    left: 140px;
+                }
+            }
+
+            .box3 {
+                h4 {
+                    position: absolute;
+                    top: 1500px;
+                    left: 90px;
+                    font-size: 30px;
+                }
+
+                p {
+                    position: absolute;
+                    top: 1640px;
+                    left: 90px;
+                    font-size: 15px;
+                }
+            }
+
+            .box4 {
+                i {
+                    position: absolute;
+                    top: 1775px;
+                    left: 90px;
+                }
+
+                p {
+                    position: absolute;
+                    top: 1770px;
+                    left: 115px;
+                    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                }
+            }
+
+            .box5 {
+                i {
+                    position: absolute;
+                    top: 1810px;
+                    left: 90px;
+                }
+
+                p {
+                    position: absolute;
+                    top: 1805px;
+                    left: 115px;
+                    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                }
+            }
+
+            .box6 {
+                i {
+                    position: absolute;
+                    top: 1845px;
+                    left: 90px;
+                }
+
+                p {
+                    position: absolute;
+                    top: 1840px;
+                    left: 115px;
+                }
+            }
+
+            .box7 {
+                a {
+                    position: absolute;
+                    top: 950px;
+                    left: -720px;
+                }
+
+                p {
+                    position: absolute;
+                    top: 1925px;
+                    left: 150px;
+                }
+            }
+        }
+    }
+}
+
+
+#style {
+    .container {
+        .box9 {
+            position: absolute;
+            top: 1500px;
+            left: 5%;
+            width: 40px;
+            height: 40px;
+            background-color: #3BBCA7;
+            animation: myAni 20s ease-in-out;
+            border-radius: 50%;
+        }
+
+        @keyframes myAni {
+            0% {
+                top: 1450px;
+                left: -25px;
+            }
+
+            25% {
+                top: 1525px;
+                left: 130px;
+            }
+
+            50% {
+                top: 1600px;
+                left: -25px;
+            }
+
+        }
+
+        .box2 {
+            background-color: #000;
+
+            img {
+                position: absolute;
+                top: 1200px;
+                right: 0;
+                width: 95%;
+                height: 100%;
+            }
+        }
+
+        .box1 {
+            h4 {
+                position: absolute;
+                top: 1400px;
+                font-size: 35px;
+                color: #072F60;
+            }
+        }
+
+        .box {
+            position: absolute;
+            top: 1300px;
+            left: 700px;
+            animation: myAni1 3s ease-in-out;
+        }
+
+        @keyframes myAni1 {
+            0% {
+                top: 1350px;
+            }
+
+            25% {
+                top: 1250px;
+            }
+        }
+
+        .box3 {
+            position: absolute;
+            top: 1660px;
+        }
+
+        .box4 {
+            img {
+                position: absolute;
+                top: 1730px;
+                border-radius: 50%;
+                width: 70px;
+                height: 70px;
+            }
+
+            span {
+                position: absolute;
+                top: 1730px;
+                left: 210px;
+                color: #072F60;
+                font-weight: 500;
+                font-size: 20px;
+            }
+
+            p {
+                position: absolute;
+                top: 1765px;
+                left: 210px;
+                font-weight: 400;
+                font-size: 15px;
+            }
+        }
+
+        .box5 {
+            position: absolute;
+            width: 20%;
+            height: 30%;
+            background-color: #fff;
+            border-radius: 3px;
+            top: 1330px;
+            left: 650px;
+
+            h1 {
+                text-align: center;
+                position: absolute;
+                top: 60px;
+                left: 90px;
+                color: #3BBCA7;
+                font-size: 45px;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+
+            p {
+                position: absolute;
+                top: 120px;
+                left: 70px;
+                color: #072F60;
+                font-weight: 500;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+        }
+
+        .box6 {
+            position: absolute;
+            width: 20%;
+            height: 30%;
+            background-color: #fff;
+            border-radius: 3px;
+            top: 1290px;
+            left: 950px;
+
+            h2 {
+                position: absolute;
+                top: 60px;
+                left: 70px;
+                color: #3BBCA7;
+                font-size: 45px;
+            }
+
+            span {
+                position: absolute;
+                top: 120px;
+                left: 70px;
+                color: #072F60;
+                font-weight: 500;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+        }
+
+        .box7 {
+            position: absolute;
+            width: 20%;
+            height: 30%;
+            background-color: #FFFFFF;
+            border-radius: 3px;
+            top: 1555px;
+            left: 650px;
+
+            h3 {
+                position: absolute;
+                top: 60px;
+                left: 70px;
+                color: #3BBCA7;
+                font-size: 45px;
+            }
+
+            p {
+                position: absolute;
+                top: 120px;
+                left: 65px;
+                color: #072F60;
+                font-weight: 500;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+        }
+
+        .box8 {
+            position: absolute;
+            width: 20%;
+            height: 30%;
+            background-color: #FFFFFF;
+            border-radius: 3px;
+            top: 1525px;
+            left: 950px;
+
+            h5 {
+                position: absolute;
+                top: 60px;
+                left: 70px;
+                color: #3BBCA7;
+                font-size: 45px;
+            }
+
+            p {
+                position: absolute;
+                top: 120px;
+                left: 65px;
+                color: #072F60;
+                font-weight: 500;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+        }
+    }
+}
+
+
+
+@media (max-width: 568px) {
+    #style {
+        .container {
+            .box {
+                display: none;
+            }
+
+            .box9 {
+                display: none;
+            }
+
+            .box2 {
+                img {
+                    position: absolute;
+                    top: 2700px;
+                }
+            }
+
+            .box1 {
+                h4 {
+                    position: absolute;
+                    top: 2050px;
+                    left: 100px;
+                }
+            }
+
+            .box3 {
+                img {
+                    position: absolute;
+                    top: 650px;
+                    left: 40px;
+                }
+            }
+
+            .box4 {
+                img {
+                    position: absolute;
+                    top: 2380px;
+                    left: 240px;
+                }
+
+                span {
+                    position: absolute;
+                    top: 2455px;
+                    left: 195px;
+                }
+
+                p {
+                    position: absolute;
+                    top: 2490px;
+                    left: 240px;
+                    font-weight: 500;
+                    color: #072F60;
+
+                }
+            }
+
+            .box5 {
+                position: absolute;
+                top: 2600px;
+                left: 80px;
+                width: 400px;
+                height: 200px;
+                background-color: #3BBCA7;
+
+                h1 {
+                    color: white;
+                    position: absolute;
+                    left: 150px;
+                }
+
+                p {
+                    position: absolute;
+                    color: white;
+                    left: 140px;
+                }
+            }
+
+            .box7 {
+                position: absolute;
+                top: 2830px;
+                left: 80px;
+                width: 400px;
+                height: 200px;
+                background-color: #3BBCA7;
+
+                h3 {
+                    color: white;
+                    position: absolute;
+                    left: 150px;
+                }
+
+                p {
+                    position: absolute;
+                    color: white;
+                    left: 140px;
+                }
+            }
+
+            .box6 {
+                position: absolute;
+                top: 3060px;
+                left: 80px;
+                width: 400px;
+                height: 200px;
+                background-color: #3BBCA7;
+
+                h2 {
+                    color: white;
+                    position: absolute;
+                    left: 150px;
+                }
+
+                span {
+                    position: absolute;
+                    color: white;
+                    left: 140px;
+                }
+            }
+
+            .box8 {
+                position: absolute;
+                top: 3290px;
+                left: 80px;
+                width: 400px;
+                height: 200px;
+                background-color: #3BBCA7;
+
+                h5 {
+                    position: absolute;
+                    color: white;
+                    left: 150px;
+                }
+
+                p {
+                    position: absolute;
+                    color: white;
+                    left: 140px;
+                }
+            }
+        }
+    }
+}
+
+
+#top {
+    .container {
+        .box {
+            span {
+                position: absolute;
+                top: 1950px;
+                left: 450px;
+                font-weight: 600;
+                color: #072F60;
+                font-size: 35px;
+            }
+
+            .noqte {
+                position: absolute;
+                top: 1890px;
+                left: 1150px;
+            }
+        }
+
+        .box1 {
+            img {
+                position: absolute;
+                top: 2100px;
+                border-radius: 8px;
+                height: 350px;
+
+                &:hover {
+                    transform: scale(1.1);
+                    transition: 0.3s linear;
+                }
+            }
+
+            p {
+                position: absolute;
+                top: 2350px;
+                left: 180px;
+                color: white;
+                font-weight: 500;
+                font-size: 18px;
+            }
+
+            span {
+                position: absolute;
+                top: 2380px;
+                color: #fff;
+                font-size: 15px;
+                left: 180px;
+            }
+        }
+
+        .box2 {
+            img {
+                position: absolute;
+                top: 2100px;
+                left: 390px;
+                border-radius: 8px;
+                height: 350px;
+
+                &:hover {
+                    transform: scale(1.1);
+                    transition: 0.3s linear;
+                }
+            }
+
+            p {
+                position: absolute;
+                top: 2350px;
+                left: 450px;
+                color: white;
+                font-weight: 500;
+                font-size: 18px;
+            }
+
+            span {
+                position: absolute;
+                top: 2380px;
+                left: 458px;
+                font-size: 15px;
+                color: white;
+            }
+        }
+
+        .box3 {
+            img {
+                position: absolute;
+                top: 2100px;
+                left: 660px;
+                border-radius: 8px;
+                height: 350px;
+
+                &:hover {
+                    transform: scale(1.1);
+                    transition: 0.3s linear;
+                }
+            }
+
+            p {
+                position: absolute;
+                top: 2350px;
+                left: 720px;
+                color: #fff;
+                font-weight: 500;
+                font-size: 18px;
+            }
+
+            span {
+                position: absolute;
+                top: 2380px;
+                left: 720px;
+                font-size: 15px;
+                color: #fff;
+            }
+        }
+
+        .box4 {
+            img {
+                position: absolute;
+                top: 2100px;
+                left: 930px;
+                border-radius: 8px;
+                height: 350px;
+
+                &:hover {
+                    transform: scale(1.1);
+                    transition: 0.3s linear;
+                }
+            }
+
+            p {
+                position: absolute;
+                top: 2350px;
+                left: 980px;
+                color: #fff;
+                font-weight: 500;
+                font-size: 18px;
+            }
+
+            span {
+                position: absolute;
+                top: 2380px;
+                left: 1010px;
+                font-size: 15px;
+                color: #fff;
+            }
+        }
+    }
+}
+
+@media (max-width: 568px) {
+    #top {
+        .container {
+            .box {
+                span {
+                    position: absolute;
+                    top: 3600px;
+                    left: 50px;
+                }
+
+                .noqte {
+                    display: none;
+                }
+            }
+
+            .box1 {
+                a {
+                    img {
+                        position: absolute;
+                        top: 3700px;
+                        left: 80px;
+                        width: 70%;
+                        height: 100%;
+                    }
+                }
+
+                p {
+                    position: absolute;
+                    top: 4000px;
+                    left: 220px;
+                    font-size: 20px;
+                }
+
+                span {
+                    position: absolute;
+                    top: 4030px;
+                    left: 230px;
+                }
+            }
+
+            .box2 {
+                a {
+                    img {
+                        position: absolute;
+                        top: 4120px;
+                        left: 80px;
+                        width: 70%;
+                        height: 100%;
+                    }
+                }
+
+                p {
+                    position: absolute;
+                    top: 4400px;
+                    left: 220px;
+                    font-size: 20px;
+                }
+
+                span {
+                    position: absolute;
+                    top: 4430px;
+                    left: 240px;
+                }
+            }
+
+            .box3 {
+                a {
+                    img {
+                        position: absolute;
+                        top: 4540px;
+                        left: 80px;
+                        width: 70%;
+                        height: 100%;
+                    }
+                }
+
+                p {
+                    position: absolute;
+                    top: 4800px;
+                    left: 220px;
+                    font-size: 20px;
+                }
+
+                span {
+                    position: absolute;
+                    top: 4830px;
+                    left: 230px;
+                }
+            }
+
+            .box4 {
+                a {
+                    img {
+                        position: absolute;
+                        top: 4960px;
+                        left: 80px;
+                        width: 70%;
+                        height: 100%;
+                    }
+                }
+
+                p {
+                    position: absolute;
+                    top: 5220px;
+                    left: 220px;
+                }
+
+                span {
+                    position: absolute;
+                    top: 5250px;
+                    left: 240px;
+                }
+            }
+        }
+    }
+}
+
+#what {
+    .container {
+        .box {
+            h3 {
+                position: absolute;
+                top: 2550px;
+                left: 500px;
+                font-size: 35px;
+                color: #072F60;
+            }
+
+            .noqte {
+                position: absolute;
+                top: 2670px;
+                left: 300px;
+            }
+
+            span {
+                position: absolute;
+                top: 2725px;
+                font-size: 20px;
+                left: 200px;
+                color: #072F60;
+                font-weight: 500;
+            }
+
+            img {
+                position: absolute;
+                top: 2870px;
+                left: 270px;
+                border-radius: 50%;
+                width: 70px;
+                height: 70px;
+            }
+
+            p {
+                position: absolute;
+                top: 2955px;
+                left: 250px;
+                font-size: 18px;
+                font-weight: 500;
+                color: #072F60;
+            }
+
+            h6 {
+                position: absolute;
+                top: 2990px;
+                left: 250px;
+                font-size: 15px;
+                font-weight: 500;
+                color: #3BBCA7;
+            }
+        }
+
+        .box1 {
+            .noqte1 {
+                position: absolute;
+                top: 2670px;
+                left: 650px;
+            }
+
+            span {
+                position: absolute;
+                top: 2725px;
+                left: 550px;
+                font-size: 20px;
+                font-weight: 500;
+                color: #072F60;
+            }
+
+            img {
+                position: absolute;
+                top: 2870px;
+                border-radius: 50%;
+                width: 70px;
+                height: 70px;
+                left: 600px;
+            }
+
+            p {
+                position: absolute;
+                top: 2955px;
+                left: 585px;
+                font-size: 20px;
+                font-weight: 500;
+                color: #072F60;
+            }
+
+            h6 {
+                position: absolute;
+                font-size: 15px;
+                font-weight: 500;
+                color: #3BBCA7;
+                top: 2990px;
+                left: 590px;
+            }
+        }
+
+        .box2 {
+            .noqte3 {
+                position: absolute;
+                top: 2670px;
+                left: 1050px;
+            }
+
+            span {
+                position: absolute;
+                top: 2725px;
+                left: 950px;
+                font-size: 20px;
+                font-weight: 500;
+                color: #072F60;
+            }
+
+            img {
+                position: absolute;
+                border-radius: 50%;
+                width: 70px;
+                height: 70px;
+                top: 2870px;
+                left: 999px;
+            }
+
+            p {
+                position: absolute;
+                top: 2955px;
+                left: 990px;
+                font-size: 20px;
+                font-weight: 500;
+                color: #072F60;
+            }
+
+            h6 {
+                position: absolute;
+                top: 2990px;
+                left: 1005px;
+                font-size: 15px;
+                font-weight: 500;
+                color: #3BBCA7;
+            }
+        }
+    }
+}
+@media (max-width: 568px) {
+    #what{
+        .container{
+            .box{
+                h3{
+                    position: absolute;
+                    top: 5380px;
+                    left: 100px;
+                }
+                .noqte{
+                    position: absolute;
+                    top: 5450px;
+                    left: 250px;
+                }
+                span{
+                    position: absolute;
+                    top: 5500px;
+                    font-size: 18px;
+                    left: 120px;
+                }
+                img{
+                    position: absolute;
+                    top: 5650px;
+                    left: 220px;
+                }
+                p{
+                    position: absolute;
+                    top: 5730px;
+                    left: 200px;
+                }
+                h6{
+                    position: absolute;
+                    top: 5765px;
+                    left: 208px;
+                }
+            }
+            .box1{
+                display: none;
+            }
+            .box2{
+                display: none;
+            }
+        }
+    }
+}
+#slider{
+    .box{
+        h3{
+            position: absolute;
+            top: 3100px;
+            left: 350px;
+            color: #072F60;
+            font-size: 25px;
+            span{
+                color: #3BBCA7;
+                font-size: 25px;
+            }
+        }
+        .img1{
+            position: absolute;
+            top: 3200px;
+            left: 320px;
+        }
+        .img2{
+            position: absolute;
+            top: 3200px;
+            left: 500px;
+        }
+        .img3{
+            position: absolute;
+            top: 3200px;
+            left: 650px;
+        }
+        .img4{
+            position: absolute;
+            top: 3200px;
+            left: 800px;
+        }
+        .img5{
+            position: absolute;
+            top: 3200px;
+            left: 950px;
+        }
+    }
+}
+
+@media (max-width: 568px) {
+    #slider{
+        .box{
+            h3{
+                position: absolute;
+                top: 5800px;
+                left: 80px;
+                font-size: 25px;
+            }
+            .img1{
+                position: absolute;
+                top: 5900px;
+                left: 120px;
+            }
+            .img2{
+                position: absolute;
+                top: 5900px;
+                left: 350px;
+            }
+            .img3{
+                display: none;
+            }
+            .img4{
+                display: none;
+            }
+            .img5{
+                display: none;
+            }
+        }
+    }
+}
